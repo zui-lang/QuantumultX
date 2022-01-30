@@ -1,0 +1,11 @@
+#酷安去广告
+#作者godlikeanyone
+^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/get_ads\/ url reject-dict
+^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/stats\/batch\/ url reject-dict
+^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/settings\/ url reject-dict
+^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/material\/check/ url reject-dict
+^https?:\/\/.+\.pglstatp-toutiao\.com\/obj\/ad-pattern\/renderer\/package\.json  url reject-dict
+^https?:\/\/.+\.pglstatp-toutiao\.com\/obj\/ad-pattern\/renderer\/daa303\/fallback\.js url reject-200
+^https?:\/\/.+\.pglstatp-toutiao\.com\/img\/ url reject-img
+
+hostname = api-access.pangolin-sdk-toutiao.com, *.pglstatp-toutiao.com
