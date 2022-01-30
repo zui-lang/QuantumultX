@@ -1,0 +1,26 @@
+# 网易云音乐解锁
+# 更新时间：2022.1.30
+#第一段来源https://github.com/O7Y0/Profiles/blob/master/O7Y0-Quantumult%20X.conf
+- {name:  网易音乐 1, server: LOLICO.ME, port: 443, type: http, tls: false, skip-cert-verify: false}
+- {name:  网易音乐 2, server: AIMER.ONE, port: 23333, type: http, tls: false, skip-cert-verify: false}
+- {name:  网易音乐 3, server: SALVAN.ICU, port: 19980, type: http, tls: false, skip-cert-verify: false}
+- {name:  网易音乐 4, server: 34.92.129.82, port: 2021, type: http, tls: false, skip-cert-verify: false}
+- {name:  网易音乐 5, server: 1.116.214.16, port: 19980, type: http, tls: false, skip-cert-verify: false}
+- {name:  网易音乐 6, server: 43.128.37.178, port: 2021, type: http, tls: false, skip-cert-verify: false}
+- {name:  网易音乐 7, server: 106.52.127.72, port: 19951, type: http, tls: false, skip-cert-verify: false}
+- {name:  网易音乐 8, server: 101.132.79.113, port: 23333, type: http, tls: false, skip-cert-verify: false}
+- {name:  网易音乐 9, server: MUSIC.LOLICO.ME, port: 39000, type: http, tls: false, skip-cert-verify: false}
+- {name:  网易音乐 10, server: MUSIC.GRIOUGES.CN, port: 39000, type: http, tls: false, skip-cert-verify: false}
+- {name:  网易音乐 11, server: XBMMW.XYZ, port: 5691, type: ss, cipher: aes-128-gcm, password: QQ3203434182}
+- {name:  网易音乐 12, server: PROXY.PLUSMEDIA.SITE, port: 58081, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ}
+- {name:  网易音乐 13, server: MUSIC.DESPERADOJ.COM, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+- {name:  网易音乐 14, server: MUSIC.DESPERADOJ.COM, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+
+#第二段来源https://raw.githubusercontent.com/yawenchim/QuantumultX-mix/master/unlock/NeteaseUnlock.list
+网易音乐15 = http,106.52.127.72,19951
+网易音乐16 = http,os.dlj.tf,20000
+网易音乐17 = http,os.dlj.tf,30000
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=网易音乐18
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=网易音乐19
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=网易音乐20
+http=block4music.poetyin.me:39000, fast-open=false, udp-relay=false, tag=网易音乐21
