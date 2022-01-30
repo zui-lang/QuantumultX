@@ -1,0 +1,7 @@
+#泼辣修图（需恢复购买）
+#作者：Nobyda 
+#原链接：https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Polarr.js
+^https:\/\/api\.polaxiong\.com\/v1\/payments\/appleiap\/receipts\/confirmation url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Polarr.js
+
+
+hostname = api.polaxiong.com
