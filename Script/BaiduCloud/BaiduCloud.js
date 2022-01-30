@@ -1,6 +1,6 @@
-#作者： NobyDa
-#原连接： https://github.com/NobyDa/Script/blob/master/Surge/JS/BaiduCloud.js
 /*
+作者： NobyDa
+原连接： https://github.com/NobyDa/Script/blob/master/Surge/JS/BaiduCloud.js
 百度网盘 解锁在线视频倍率/清晰度
 ***************************
 QuantumultX:
