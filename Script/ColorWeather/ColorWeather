@@ -1,0 +1,6 @@
+# 彩云天气 
+#作者：godlikeanyone
+#原连接https://github.com/godlikeanyone/Rules/blob/master/CWTest.js
+^https:\/\/biz\.caiyunapp\.com\/v2\/user\?app_name\=weather url script-response-body https://raw.githubusercontent.com/zui-lang/QuantumultX/main/Script/ColorWeather/ColorWeather.js
+
+hostname = biz.caiyunapp.com
