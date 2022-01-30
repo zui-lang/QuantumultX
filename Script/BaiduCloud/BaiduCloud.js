@@ -1,3 +1,5 @@
+#作者： NobyDa
+#原连接： https://github.com/NobyDa/Script/blob/master/Surge/JS/BaiduCloud.js
 /*
 百度网盘 解锁在线视频倍率/清晰度
 ***************************
@@ -9,8 +11,7 @@ hostname = pan.baidu.com
 ***************************
 Surge4 or Loon:
 [Script]
-http-response https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/user requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/BaiduCloud.js
-[MITM]
+http-response https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/user requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/zui-lang/QuantumultX/main/Script/BaiduCloud/BaiduCloud.js
 hostname = pan.baidu.com
 **************************/
 
