@@ -5,7 +5,7 @@ Polarr泼辣修图 解锁特权 (需恢复购买)
 ***************************
 QuantumultX:
 [rewrite_local]
-^https:\/\/api\.polaxiong\.com\/v1\/payments\/appleiap\/receipts\/confirmation url script-response-body 
+^https:\/\/api\.polaxiong\.com\/v1\/payments\/appleiap\/receipts\/confirmation url script-response-body https://raw.githubusercontent.com/zui-lang/QuantumultX/main/Script/Polarr/Polarr.js
 [mitm]
 hostname = api.polaxiong.com
 ***************************
