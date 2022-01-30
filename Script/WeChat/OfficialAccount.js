@@ -11,7 +11,7 @@ hostname = mp.weixin.qq.com
 ***************************
 Surge4 or Loon:
 [Script]
-http-response ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js
+http-response ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/zui-lang/QuantumultX/main/Script/WeChat/OfficialAccount.js
 [MITM]
 hostname = mp.weixin.qq.com
 **************************/
