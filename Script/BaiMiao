@@ -1,3 +1,0 @@
-#更新时间：20220130
-hostname=baimiao.uzero.cn
-^https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$ url script-response-body https://raw.githubusercontent.com/iEwha/Profiles/master/Script/baimiao.js
