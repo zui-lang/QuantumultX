@@ -1,0 +1,2 @@
+^https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$ url script-response-body https://raw.githubusercontent.com/zui-lang/QuantumultX/main/Script/BaiMiao/BaiMiao.js
+hostname=baimiao.uzero.cn
