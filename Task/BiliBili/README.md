@@ -1,5 +1,5 @@
 # bilibili
-作者[Chavy](https://github.com/chavyleung/scripts/blob/master/bilibili/README.md)
+作者[Chavy](https://github.com/chavyleung/scripts/blob/master/bilibili)
 > 代码已同时兼容 Surge & QuanX, 使用同一份签到脚本即可
 
 > 目前可签 bilibili 直播 (直播!直播!直播!) + 银瓜子转硬币
