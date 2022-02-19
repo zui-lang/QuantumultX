@@ -1,5 +1,5 @@
 # 百度签到
-##作者
+作者
 [Chavy](https://github.com/chavyleung/scripts/tree/master/tieba)
 
 > 代码已同时兼容 Surge & QuanX, 使用同一份签到脚本即可
