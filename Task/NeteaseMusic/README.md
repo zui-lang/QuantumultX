@@ -1,5 +1,5 @@
 # 网易云音乐
-作者作者[Chavy](https://github.com/chavyleung/scripts/blob/master/neteasemusic)
+作者[Chavy](https://github.com/chavyleung/scripts/blob/master/neteasemusic)
 > 2020.6.15
 >
 > 1. 增加自动重试机制 (BoxJs 可调整次数及间隔)
